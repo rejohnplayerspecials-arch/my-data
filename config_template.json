@@ -1,0 +1,6 @@
+{
+    "github_token": "ここにGitHubトークンを入力（ghp_で始まる文字列）",
+    "repo_owner": "RejohnPlayerSpecials-Arch",
+    "repo_name": "my-data",
+    "backup_folder": "Macの場合: /Users/[ユーザー名]/Documents/CoworkBackup または Windows: C:\\Users\\[ユーザー名]\\Documents\\CoworkBackup"
+}
